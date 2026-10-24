@@ -1,0 +1,11 @@
+{
+  "run_at": "미실행",
+  "requested_date": "미확인",
+  "source": "pykrx",
+  "status": "NOT_RUN",
+  "universe_count": 0,
+  "attempted": 0,
+  "verified": 0,
+  "failures": [],
+  "rows": []
+}
