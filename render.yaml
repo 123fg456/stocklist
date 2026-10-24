@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: kr-stock-flow-dashboard
+    runtime: static
+    buildCommand: echo 'Serving pre-generated stock flow report'
+    staticPublishPath: .
